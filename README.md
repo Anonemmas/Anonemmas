@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Emmanuel Impano</h1>
-<h3>A creative and passionate frontend developer from Rwanda</h3>
+<h3>A creative and passionate frontend developer from Rwanda 🇷🇼</h3>
 <!-- <img src="https://github.com/Anonemmas/Anonemmas/blob/main/git.gif" height="200px" width="1000px" style="object-fit:cover" alt="banner that says Sarah hart Landolt - software developer, artist, designer"> -->
 
 
