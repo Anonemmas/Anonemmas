@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently exploring **React Native, ThreeJs**
 
-- 👨‍💻 All of my projects are available at [https://e-mpano.rw](https://e-mpano.rw)
+- 👨‍💻 Some of my projects are available at [https://e-mpano.rw](https://e-mpano.rw)
 
-- 💬 Ask me about **NextJs, React.Js, Google cloud platform**
+- 💬 Ask me about **Javascript, ReactJs**
 
 - 📫 How to reach me **impanoemma@gmail.com**
 
