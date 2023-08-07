@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a cool edtech platform](https://app.bag.work)
 
-- 🌱 I’m currently learning **React Native, ThreeJs**
+- 🌱 I’m currently exploring **React Native, ThreeJs**
 
 - 👨‍💻 All of my projects are available at [https://e-mpano.rw](https://e-mpano.rw)
 
