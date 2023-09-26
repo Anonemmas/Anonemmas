@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **impanoemma@gmail.com**
 
-- 📄 Know about my experiences [link to my resume](https://drive.google.com/file/d/1OPO5krNpebo_VpdtaE3rSbObdH68Ka7m/view?usp=sharing)
+- 📄 Know about my experience [link to my resume](https://drive.google.com/file/d/1OPO5krNpebo_VpdtaE3rSbObdH68Ka7m/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a 3x Fifa Champion.**
 
