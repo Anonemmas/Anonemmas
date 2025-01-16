@@ -3,19 +3,19 @@
 <!-- <img src="https://github.com/Anonemmas/Anonemmas/blob/main/git.gif" height="200px" width="1000px" style="object-fit:cover" alt="banner that says Sarah hart Landolt - software developer, artist, designer"> -->
 
 
-- 🔭 I’m currently working on [a cool edtech platform](https://app.bag.work)
+- 🔭 I’m currently working on projects that impact over 10M+ people.
 
-- 🌱 I’m currently exploring **React Native, ThreeJs**
+- 🌱 I’m currently exploring **Product Design & ThreeJs**
 
 - 👨‍💻 Some of my projects are available at [https://e-mpano.rw](https://e-mpano.rw)
 
-- 💬 Ask me about **Javascript, ReactJs**
+- 💬 Ask me about **The Javascript Ecosystem**
 
 - 📫 How to reach me **impanoemma@gmail.com**
 
 - 📄 Know about my experience [link to my resume](https://drive.google.com/file/d/1OPO5krNpebo_VpdtaE3rSbObdH68Ka7m/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a 3x Fifa Champion.**
+- ⚡ Fun fact **My Elo Rating is nearly 1,800**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
