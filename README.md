@@ -3,7 +3,7 @@
 <!-- <img src="https://github.com/Anonemmas/Anonemmas/blob/main/git.gif" height="200px" width="1000px" style="object-fit:cover" alt="banner that says Sarah hart Landolt - software developer, artist, designer"> -->
 
 
-- 🔭 I’m currently working on projects that impact over 10M+ people.
+- 🔭 I’m currently working on projects that impact 10M+ people.
 
 - 🌱 I’m currently exploring **Product Design & ThreeJs**
 
